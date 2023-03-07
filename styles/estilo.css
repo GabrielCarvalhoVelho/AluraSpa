@@ -1,7 +1,9 @@
+/*Fontes*/
 html, body {
   font-family: "Roboto", sans-serif;
 }
 
+/*Fontes*/
 nav {
   text-align: center;
 }
@@ -13,4 +15,8 @@ nav ul li a {
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
+  color: #A86464;
+}
+nav ul li a:hover {
+  border-bottom: 2px solid #A86464;
 }/*# sourceMappingURL=estilo.css.map */
