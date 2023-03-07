@@ -2,19 +2,20 @@
 
 nav {
     text-align: center;
-    ul{
-        li{
+    ul {
+        li {
             display: inline-block;
             padding: 1rem;
-            a{
+            a {
                 text-transform: uppercase;
                 text-decoration: none;
                 font-weight: bold;
-                color: $cor-secundaria;
-                &:hover{
+                color: $cor-primaria;
+                &:hover {
                     border-bottom: 2px solid $cor-secundaria;
                 }
             }
         }
     }
 }
+
